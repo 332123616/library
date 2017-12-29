@@ -4,7 +4,7 @@ Imports System.Collections.Concurrent
 ''' 游戏算法类
 ''' </summary>
 Public Class ArithmeticClass
-    Dim haha As String = "caojiba"
+    Dim haha As String = "123"
     ''' <summary>
     ''' 用户字典
     ''' </summary>
