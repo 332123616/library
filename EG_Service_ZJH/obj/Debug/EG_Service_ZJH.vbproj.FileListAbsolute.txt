@@ -27,3 +27,7 @@ C:\Users\Administrator\Source\Repos\library\EG_Exe\EG_Service_ZJH.exe.config
 C:\Users\Administrator\Source\Repos\library\EG_Service_ZJH\obj\Debug\EG_Service_ZJH.exe
 C:\Users\Administrator\Source\Repos\library\EG_Service_ZJH\obj\Debug\EG_Service_ZJH.xml
 C:\Users\Administrator\Source\Repos\library\EG_Service_ZJH\obj\Debug\EG_Service_ZJH.pdb
+C:\Users\Administrator\Source\Repos\library\EG_Service_ZJH\obj\Debug\EG_Service_ZJH.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\library\EG_Service_ZJH\obj\Debug\EG_Service_ZJH.Form1.resources
+C:\Users\Administrator\Source\Repos\library\EG_Service_ZJH\obj\Debug\EG_Service_ZJH.Resources.resources
+C:\Users\Administrator\Source\Repos\library\EG_Service_ZJH\obj\Debug\EG_Service_ZJH.vbproj.GenerateResource.Cache
